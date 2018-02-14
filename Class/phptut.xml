@@ -1,0 +1,53 @@
+<?xml version="1.0"?> 
+ 
+<employees>
+	<employee>
+		<name>Tony Stark</name>
+		<age>30</age>
+		<gender>Male</gender>
+		<address>New York</address>
+	</employee>
+ 
+	<employee>
+		<name>Steeve Roger</name>
+		<age>25</age>
+		<gender>Male</gender>
+		<address>New York</address>
+	</employee>
+ 
+	<employee>
+		<name>Natasha</name>
+		<age>24</age>
+		<gender>Female</gender>
+		<address>Britain</address>
+	</employee>
+ 
+	<employee>
+		<name>Albert Einstein</name>
+		<age>50</age>
+		<gender>Male</gender>
+		<address>Germany</address>
+	</employee>
+ 
+	<employee>
+		<name>Nikola Tesla</name>
+		<age>65</age>
+		<gender>Male</gender>
+		<address>Crotia</address>
+	</employee>
+ 
+	<employee>
+		<name>Thomas Edison</name>
+		<age>60</age>
+		<gender>Male</gender>
+		<address>Ohio</address>
+	</employee>
+ 
+	<employee>
+		<name>Henry Ford</name>
+		<age>50</age>
+		<gender>Male</gender>
+		<address>Greenfield</address>
+	</employee>
+ 
+</employees>
