@@ -1,3 +1,4 @@
+//index page
 <?php
 $news_pic_path = "/Project/uploads/images/admin/";
 require_once 'Class/jdf.php';
