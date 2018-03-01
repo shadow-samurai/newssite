@@ -4,7 +4,7 @@ This project is a news site
 </br>
 For all news for example sport or economic
 </br>
-i write this project with php and mysql and css 
+I write this project with php and mysql and css 
 </br>
 Please send your idea to me with : nullbyte{dot}ir{@}gmail{dot}com
 </br>
