@@ -8,5 +8,5 @@ I write this project with php and mysql and css
 </br>
 Please send your idea to me with : nullbyte{dot}ir{@}gmail{dot}com
 </br>
-<a href="http://www.nullbyte.ir/Project/">Demo</a>
+<a href="http://news2.cloudsite.ir/Project/index.php">Demo</a>
 </br>
