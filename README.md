@@ -8,5 +8,5 @@ I write this project with php and mysql and css
 </br>
 Please send your idea to me with : admin{@}newssysetm{.}ir
 </br>
-<a href="http://newssysetm.ir"></a>
+<a href="http://newssysetm.ir"> NewsSystem </a>
 </br>
